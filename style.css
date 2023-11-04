@@ -1,0 +1,146 @@
+    /*#ins_b{
+    margin-bottom: 6px;
+    }
+
+    .ins{
+    margin-top: -15px;
+    padding-bottom: 5px;
+    }
+    
+    .heading{
+    
+    margin-top: 0px;
+    margin-left: -15px;
+    height: 50px;
+    font-weight: bold;
+    text-align: left;
+    }
+    
+    .heading button{
+    float: right;
+    border: 1px solid white;
+    }
+    
+    ol li{
+    text-align: left;
+    }
+    
+    #footer{
+    bottom:0;
+    position: fixed;
+    background-color: rgb(253, 237, 215);
+    font-weight: bold;
+    width: 100%;
+    line-height: 3;
+    font-size: 20px;
+    font-family: monospace;
+    }
+    
+    canvas{
+    border-radius: 10px;
+    border: 5px solid rgb(255, 255, 255);
+    
+    animation-name: animation;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    }
+    @keyframes animation{
+    from{
+    box-shadow: 10px 10px 20px white;
+    }
+    to{
+    box-shadow: 10px 10px 20px rgba(36, 0, 0, 0);
+    }
+    }
+    
+    #restart{
+    margin-top: 30px;
+    font-size:30px ;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    width: 150px;
+    }*/
+
+    #AI_B{
+    padding-bottom: 30px;
+    }
+
+    body{
+        margin-left: -17.5px;
+    }
+
+    #ins_b{
+        margin-bottom: 6px;
+        font-size: 20px;
+        }
+    
+        .ins{
+        margin-top: -15px;
+        padding-bottom: 5px;
+        }
+        
+        .heading{
+        
+        margin-top: 0px;
+        margin-left: -15px;
+        height: 80px;
+        
+        text-align: left;
+        }
+        
+        .heading button{
+        float: right;
+        border: 1px solid white;
+        }
+        
+        ol li{
+        text-align: left;
+        }
+
+        #status{
+            margin-left: 110px;
+        }
+        
+        #footer{
+        bottom:0;
+        position: fixed;
+        background-color: rgb(253, 237, 215);
+        font-weight: bold;
+        width: 100%;
+        line-height: 3;
+        font-size: 20px;
+        font-family: monospace;
+        }
+
+        #play{
+            margin-left: 120px;
+        }
+        
+        canvas{
+        border-radius: 10px;
+        border: 5px solid rgb(255, 255, 255);
+        
+        animation-name: animation;
+        animation-duration: 5s;
+        animation-iteration-count: infinite;
+        }
+        @keyframes animation{
+        from{
+        box-shadow: 10px 10px 20px white;
+        }
+        to{
+        box-shadow: 10px 10px 20px rgba(36, 0, 0, 0);
+        }
+        }
+        
+        #restart{
+        margin-top: 30px;
+        font-size:30px ;
+        border-radius: 10px;
+        background-color: red;
+        color: white;
+        width: 150px;
+        margin-left: 100px; 
+        }
+    
